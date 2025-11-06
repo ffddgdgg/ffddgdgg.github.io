@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Arial', sans-serif;
-
 }
 body {
     line-height: 1.6;
@@ -470,3 +469,4 @@ article:last-of-type > div:last-child img:hover {
         gap: 15px;
     }
 }
+
